@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bornmentality001!
+# 👋 Hi, I'm Emmanuel Liasu 
 
 🎓 **Student | Aspiring Digital Forensics Analyst | Cybersecurity Enthusiast**  
 🌍 Based in Nigeria  
