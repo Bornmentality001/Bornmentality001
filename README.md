@@ -1,39 +1,45 @@
-# 👋 Hi, I'm Emmanuel Liasu 
+# 👋 Hi, I'm Emmanuel Liasu
 
-🎓 **Student | Aspiring Digital Forensics Analyst | Cybersecurity Enthusiast**  
+🎓 Student · Penetration Tester · Python Developer · OSINT Enthusiast  
 🌍 Based in Nigeria  
-💡 Just started learning **Python** and **Machine Learning** as digital skills 
-🔍 Fascinated by technology and always eager to explore new tech frontiers  
-⚽ Football fan (love watching matches on TV!)
+💡 Learning practical cybersecurity skills and building tooling in Python  
+⚽ Football fan — I love watching matches on TV!
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I'm a student currently pursuing a degree in Cybersecurity in Nigeria, with my main aspiration centered on **digital forensics**. My passion lies in uncovering and investigating digital evidence to solve real-world problems.
-
-I've just started learning both **Python** and **Machine Learning**, aiming to build digital skills that will open up opportunities for online jobs and gigs—helping me thrive and succeed as an aspiring digital forensics expert. Technology has always intrigued and fascinated me, and I'm excited to keep learning and growing in this space.
+I am a cybersecurity student focused on offensive security. I enjoy learning penetration testing techniques, writing Python scripts to automate tasks, and using OSINT to gather and analyze publicly available information. I’m building hands-on skills to prepare for projects, labs, and online opportunities.
 
 ---
 
-## 🌱 What I’m Working On
+## What I’m Learning
 
-- **Python:** Building a strong programming foundation  
-- **Machine Learning:** Exploring basics and real-world applications  
-- **Digital Forensics & Cybersecurity:** Developing investigative skills and best practices
-
----
-
-## 🤝 Let’s Connect!
-
-I'm open to connecting with like-minded, bright, and smart people—mentors, collaborators, or anyone passionate about cybersecurity, digital forensics, and tech.  
-Let's connect, learn, and succeed together in the digital world!
-
-- Find me on [X (Twitter)](https://x.com/Bornmentality001)
+- Python — scripting, automation, and small tools  
+- Penetration testing — methodologies, labs, and CTF practice  
+- OSINT — reconnaissance, data collection, and analysis
 
 ---
 
-> **“Always curious, always learning, and always up for a good football match on TV!”**
+## Current Work
 
-Thanks for visiting my profile! 🚀  
-Feel free to reach out or share resources—collaboration and community are the keys to growth.
+- Practicing CTF challenges and lab-based assessments  
+- Building small Python tools for recon and automation  
+- Exploring real-world OSINT exercises to improve investigative workflows
+
+---
+
+## Goals
+
+- Gain practical experience through labs, writeups, and small projects  
+- Build a portfolio of tools and CTF writeups to demonstrate skills  
+- Connect with mentors and peers in the cybersecurity community
+
+---
+
+## Connect
+
+- X (Twitter): https://x.com/Bornmentality001  
+- Email: emmaliasu24@gmail.com
+
+Thanks for visiting — always curious and always learning! 🚀
