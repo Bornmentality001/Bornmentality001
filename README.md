@@ -39,7 +39,7 @@ I am a cybersecurity student focused on offensive security. I enjoy learning pen
 
 ## Connect
 
-- X (Twitter): https://x.com/Bornostality001  
-- Email: emmalisu24@gmail.com
+- X (Twitter): https://x.com/Bornmentality001  
+- Email: emmaliasu24@gmail.com
 
 Thanks for visiting — always curious and always learning! 🚀
